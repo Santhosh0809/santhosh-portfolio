@@ -7,6 +7,7 @@
   </a>
   <a href="mailto:santhosh08092001@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
+  </a>
 </p>
 ---
 

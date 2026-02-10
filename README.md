@@ -2,11 +2,11 @@
 **Data Analyst | AI-Driven Analytics | SQL Intelligence**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Location-Salem,%20TN-blue?style=flat-square&logo=googlemaps" />
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
-  <img src="https://img.shields.io/badge/Azure-Certified-0078D4?style=flat-square&logo=microsoftazure" />
-</p>
+  <a href="https://www.linkedin.com/in/santhosh-c-09082001th/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:santhosh08092001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
 
 ---
 
@@ -83,7 +83,7 @@ Hindusthan Institute of Technology
 
 | **AI Data Assistant** | **Employee Attrition** | **Future Project** |
 | :---: | :---: | :---: |
-| <img src="screenshots/NL2SQL.png" width="300" style="border-radius:10px;"/> | <img src="screenshots/HR attriration anlz.png" width="300" style="border-radius:10px;"/> | <img src="assets/coming-soon.png" width="300" style="border-radius:10px;"/> |
+| <img src="screenshots/NL2SQL.png" width="300" style="border-radius:10px;"/> | <img src="screenshots/HR attriration anlz.png" width="300" style="border-radius:10px;"/> | <img src="screenshots/comming soon.png" width="300" style="border-radius:10px;"/> |
 | [Project Repository ➔](https://github.com/Santhosh0809/AI-Data-Assistant.git) | [Project Repository ➔](https://github.com/Santhosh0809/AI-Data-Assistant.git) | [Coming Soon ➔](#) |
 
 ---

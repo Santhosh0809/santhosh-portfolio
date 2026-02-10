@@ -1,4 +1,4 @@
-# 👋 Santhosh C
+# Santhosh C
 **Data Analyst | AI-Driven Analytics | SQL Intelligence**
 
 <p align="left">

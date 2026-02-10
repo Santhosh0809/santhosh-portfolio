@@ -1,0 +1,21 @@
+title: Santhosh C
+description: Data Analyst | AI & SQL Intelligence Specialist
+show_downloads: false
+google_analytics: # Add your ID here if you have one
+remote_theme: "jekyll/minima@1e8a445"
+plugins:
+- jekyll-remote-theme # Provides the "Albino/Dark" aesthetic
+
+# Header Links
+navbar:
+  - title: Portfolio
+    url: /
+  - title: LinkedIn
+    url: https://linkedin.com/in/santhoshc
+  - title: Email
+    url: mailto:santhosh08092001@gmail.com
+
+# Personal Info
+location: Salem, Tamil Nadu
+phone: +91 9080121311
+remote_work: Available

@@ -104,7 +104,7 @@ Hindusthan Institute of Technology
 
 | **AI Data Assistant** | **Employee Attrition** | **Future Project** |
 | :---: | :---: | :---: |
-| <img src="assets/ai-assistant-card.png" width="300" style="border-radius:10px;"/> | <img src="assets/attrition-card.png" width="300" style="border-radius:10px;"/> | <img src="assets/coming-soon.png" width="300" style="border-radius:10px;"/> |
+| <img src="assets/screenshots/Full UI 2.png" width="300" style="border-radius:10px;"/> | <img src="assets/attrition-card.png" width="300" style="border-radius:10px;"/> | <img src="assets/coming-soon.png" width="300" style="border-radius:10px;"/> |
 | [Explore AI System ➔](./projects/AI-Assistant) | [View HR Insights ➔](./projects/Attrition-Intelligence) | [Coming Soon ➔](#) |
 
 ---

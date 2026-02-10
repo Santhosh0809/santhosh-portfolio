@@ -1,0 +1,44 @@
+# Site Settings
+title: Santhosh C
+description: Data Analyst specializing in AI-driven analytics, SQL intelligence, and business automation.
+email: santhosh08092001@gmail.com
+baseurl: "" # Leave empty for your main username.github.io repo
+url: "https://santhoshc.github.io" # Replace with your GitHub URL
+
+# Personal Branding
+author:
+  name: "Santhosh C"
+  location: "Salem, Tamil Nadu"
+  bio: "Architecting NL2SQL Systems & Intelligent Data Solutions"
+  linkedin: "santhoshc"
+  github: "santhoshc"
+
+# Portfolio Structure
+projects_dir: projects
+assets_dir: assets
+
+# Professional Keywords (SEO for Recruiters)
+keywords: "Data Analyst, SQL, Python, Power BI, NL2SQL, Ollama, AI Analytics, Salem, Tamil Nadu"
+
+# Build Settings
+markdown: kramdown
+theme: minima # You can change this to 'jekyll-theme-architect' or 'jekyll-theme-cayman'
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Future-Proofing: Custom Collections
+# This allows you to add new projects just by dropping a markdown file in a folder
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+# Exclude these files from being uploaded to the final site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - .sass-cache/
+  - .jekyll-cache/

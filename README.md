@@ -1,44 +1,23 @@
-# 👋 Santhosh C  
+# 👋 Santhosh C
 **Data Analyst | AI-Driven Analytics | SQL Intelligence**
 
-📍 Salem, Tamil Nadu, India  
-📞 +91 9080121311  
-📧 santhosh08092001@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/santhoshc)
+<p align="left">
+  <img src="https://img.shields.io/badge/Location-Salem,%20TN-blue?style=flat-square&logo=googlemaps" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
+  <img src="https://img.shields.io/badge/Azure-Certified-0078D4?style=flat-square&logo=microsoftazure" />
+</p>
 
 ---
 
-## 🚀 Professional Summary
+## ⚡ Technical Arsenal
 
-Data Analyst specializing in **AI-driven analytics**, **SQL intelligence**, and **business automation**.  
-Proven experience building **enterprise-grade Natural Language to SQL systems**, **self-healing query engines**, and **intelligent visualization layers**.
-
-Strong expertise in **Python, MySQL, Power BI, and local LLMs**, delivering **secure, insight-driven decision support** for business users.
-
----
-
-## 🛠️ Technical Skills
-
-### 🔹 AI & Analytics
-- NL2SQL
-- Prompt Engineering
-- Ollama (Local LLMs)
-- AI Orchestration
-
-### 🔹 Tools & Platforms
-- Python
-- MySQL
-- Streamlit
-- Plotly
-- Power BI
-- Excel (Power Query)
-
-### 🔹 Advanced SQL
-- Window Functions
-- CTEs
-- Complex Joins
-- Error Recovery Logic
-- KPI Automation
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **AI & Analytics** | NL2SQL, Prompt Engineering, Ollama (Local LLMs), Qwen-2.5, LangChain |
+| **Data Engineering** | MySQL (Expert), Python (Pandas/NumPy), ETL Automation, Power Query |
+| **Visualization** | Power BI, Streamlit, Plotly, Seaborn |
+| **Core SQL** | Window Functions, CTEs, Self-Healing Query Logic, Schema Analysis |
 
 ---
 
@@ -104,7 +83,7 @@ Hindusthan Institute of Technology
 
 | **AI Data Assistant** | **Employee Attrition** | **Future Project** |
 | :---: | :---: | :---: |
-| <img src="assets/screenshots/Full UI 2.png" width="300" style="border-radius:10px;"/> | <img src="assets/attrition-card.png" width="300" style="border-radius:10px;"/> | <img src="assets/coming-soon.png" width="300" style="border-radius:10px;"/> |
-| [Explore AI System ➔](./projects/AI-Assistant) | [View HR Insights ➔](./projects/Attrition-Intelligence) | [Coming Soon ➔](#) |
+| <img src="screenshots/NL2SQL.png" width="300" style="border-radius:10px;"/> | <img src="screenshots/HR attriration anlz.png" width="300" style="border-radius:10px;"/> | <img src="assets/coming-soon.png" width="300" style="border-radius:10px;"/> |
+| [Project Repository ➔](https://github.com/Santhosh0809/AI-Data-Assistant.git) | [Project Repository ➔](https://github.com/Santhosh0809/AI-Data-Assistant.git) | [Coming Soon ➔](#) |
 
 ---

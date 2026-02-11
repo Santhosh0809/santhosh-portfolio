@@ -34,6 +34,7 @@
 - Designed a **decision-support layer** generating Observation–Insight–Recommendation outputs using a **fully local Qwen-2.5 LLM**, ensuring data privacy
   
 🔗 **Project Repository:** [AI-Data-Assistant](https://github.com/Santhosh0809/AI-Data-Assistant.git)
+
 ---
 
 ### 🔹 Employee Attrition Analysis  

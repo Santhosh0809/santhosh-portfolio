@@ -37,7 +37,7 @@
 
 ---
 
-### 🔹 Employee Attrition Intelligence  
+### 🔹 Employee Attrition Analysis  
 **MySQL | Power BI | Excel**
 
 - Automated ETL pipelines for **1,400+ employee records**, reducing data preparation time by **40%**

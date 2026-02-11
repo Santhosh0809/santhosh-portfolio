@@ -33,8 +33,7 @@
 - Implemented an **intelligent visualization layer** that auto-selects optimal charts (Bar, Line, Scatter, Area, Donut)
 - Designed a **decision-support layer** generating Observation–Insight–Recommendation outputs using a **fully local Qwen-2.5 LLM**, ensuring data privacy
   
-🔗 **Project Repository:** https://github.com/Santhosh0809/AI-Data-Assistant.git
-
+🔗 **Project Repository:** [AI-Data-Assistant](https://github.com/Santhosh0809/AI-Data-Assistant.git)
 ---
 
 ### 🔹 Employee Attrition Analysis  
@@ -45,7 +44,7 @@
 - Discovered a **21% churn spike** tied to promotion stagnation using SQL-based role profiling
 - Developed interactive **Power BI dashboards** visualizing critical attrition KPIs for leadership decision-making
 
-🔗**Project Repository:** https://github.com/Santhosh0809/AI-Data-Assistant.git
+🔗 **Project Repository:** [Employee-Attrition-Analysis](https://github.com/Santhosh0809/AI-Data-Assistant.git)
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 ---
-@import "{{ site.theme }}";
+@import "{pages-themes/cayman@v0.2.0}";
 
 /* Hides the repository name and the GitHub button section at the top */
 header h1, header ul {

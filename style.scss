@@ -1,0 +1,13 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Hides the repository name and the GitHub button section at the top */
+header h1, header ul {
+  display: none !important;
+}
+
+/* Adjusts the padding so the page doesn't look empty at the top */
+header {
+  padding-top: 20px !important;
+}

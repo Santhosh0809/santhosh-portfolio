@@ -33,18 +33,19 @@
 - Implemented an **intelligent visualization layer** that auto-selects optimal charts (Bar, Line, Scatter, Area, Donut)
 - Designed a **decision-support layer** generating Observation–Insight–Recommendation outputs using a **fully local Qwen-2.5 LLM**, ensuring data privacy
 
-🔗 **Project Repository:** *(add your GitHub repo link here)*
+🔗 **Project Repository:** *(https://github.com/Santhosh0809/AI-Data-Assistant.git)*
 
 ---
 
 ### 🔹 Employee Attrition Analysis  
 **MySQL | Power BI | Excel**
 
-- Automated ETL pipelines for **1,400+ employee records**, reducing data preparation time by **40%**
+- •	Automated ETL using Excel Power Query for **1,400+ employee records**, reducing data preparation time by **40%**
 - Identified a **30.5% attrition rate** linked to excessive overtime, highlighting burnout-prone roles
 - Discovered a **21% churn spike** tied to promotion stagnation using SQL-based role profiling
 - Developed interactive **Power BI dashboards** visualizing critical attrition KPIs for leadership decision-making
 
+🔗 **Project Repository:** *(https://github.com/Santhosh0809/Employee-Attrition-Analysis.git)*
 ---
 
 ## 💼 Professional Experience
@@ -85,6 +86,6 @@ Hindusthan Institute of Technology
 | **AI Data Assistant** | **Employee Attrition** | **Future Project** |
 | :---: | :---: | :---: |
 | <img src="screenshots/NL2SQL.png" width="300" style="border-radius:10px;"/> | <img src="screenshots/HR attriration anlz.png" width="300" style="border-radius:10px;"/> | <img src="screenshots/comming soon.png" width="300" style="border-radius:10px;"/> |
-| [Project Repository ➔](https://github.com/Santhosh0809/AI-Data-Assistant.git) | [Project Repository ➔](https://github.com/Santhosh0809/AI-Data-Assistant.git) | [Coming Soon ➔](#) |
+| [Project Repository ➔](https://github.com/Santhosh0809/AI-Data-Assistant.git) | [Project Repository ➔](https://github.com/Santhosh0809/Employee-Attrition-Analysis.git) | [Coming Soon ➔](#) |
 
 ---

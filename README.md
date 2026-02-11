@@ -32,8 +32,8 @@
 - Built a **universal intent engine** that derives missing metrics and creates calculated fields (e.g., Quantity × Price) dynamically
 - Implemented an **intelligent visualization layer** that auto-selects optimal charts (Bar, Line, Scatter, Area, Donut)
 - Designed a **decision-support layer** generating Observation–Insight–Recommendation outputs using a **fully local Qwen-2.5 LLM**, ensuring data privacy
-
-🔗 **Project Repository:** *(https://github.com/Santhosh0809/AI-Data-Assistant.git)*
+  
+🔗 **Project Repository:** (https://github.com/Santhosh0809/AI-Data-Assistant.git)
 
 ---
 
@@ -45,7 +45,8 @@
 - Discovered a **21% churn spike** tied to promotion stagnation using SQL-based role profiling
 - Developed interactive **Power BI dashboards** visualizing critical attrition KPIs for leadership decision-making
 
-🔗 **Project Repository:** *(https://github.com/Santhosh0809/Employee-Attrition-Analysis.git)*
+🔗**Project Repository:** (https://github.com/Santhosh0809/AI-Data-Assistant.git)
+
 ---
 
 ## 💼 Professional Experience
